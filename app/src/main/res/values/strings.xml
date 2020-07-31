@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parking Redirect</string>
+    <string name="navigate_to_saved_location">Navigate To Saved Location</string>
+    <string name="save_current_location">Save Current Location</string>
+    <string name="last_saved_location">Last Saved Location:</string>
+    <string name="title_location_permission">Allow Location Usage</string>
+    <string name="text_location_permission">Allow this app to access the location of this phone</string>
+    <string name="ok">OK</string>
+</resources>
